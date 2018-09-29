@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58f27930-9db2-4bb4-bf81-0ab2985ae86e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appt/static/Images/book.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appt/templates/tt.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/appt/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/appt/templates/home.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/appt/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/appt/views.py" afterDir="false" />
@@ -18,7 +21,7 @@
     <session id="-1584815678">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.6" value="2" />
@@ -255,7 +258,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="82" y="34" width="992" height="634" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24921466" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
