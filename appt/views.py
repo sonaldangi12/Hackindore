@@ -55,3 +55,6 @@ def about(request):
 
 def faculty(request):
     return render(request, 'faculty.html')
+
+def tt(request):
+    return render(request, 'tt.html')

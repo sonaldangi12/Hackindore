@@ -30,4 +30,5 @@ urlpatterns = [
     path('attendence/',attendence),
     path('about/',about),
     path('faculty/', faculty),
+    path('tt/',tt),
 ]
