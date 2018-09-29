@@ -1,0 +1,15 @@
+<html>
+<head>
+    <title>Feedback</title>
+</head>
+<body>
+<h1>Give your Valuable Feedback</h1><br>
+<form method="post" action="">
+    {% csrf_token %}
+    <div>
+        {{ form.as_p }}
+    </div>
+    <button type="submit">Submit</button>
+</form>
+</body>
+</html>

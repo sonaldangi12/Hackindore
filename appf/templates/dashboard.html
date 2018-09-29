@@ -1,0 +1,24 @@
+<html>
+<head>
+    <title>Dashboard</title>
+    <link rel="stylesheet" type="text/css" href="../static/css/h2.css">
+</head>
+<body>
+<header>
+<div class="main">
+<ul>
+<li><a href="/logout/">Logout</a></li><br><br>
+    <h1><font color="yellow">"FEEDBACK WINDOW"<br></font></h1>
+    <font color="white">
+{% if obj %}
+{% for k in obj %}
+    Anonymous : {{ k.msg }}<br>
+    <hr>
+{% endfor %}
+{% endif %}
+        </font>
+</ul>
+</div>
+</header>
+</body>
+</html>
